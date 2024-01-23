@@ -1,0 +1,99 @@
+/* body{
+   
+    
+   
+}
+.left{ */
+body{
+    background: linear-gradient(red,blue);
+}
+.top{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #ffe4e1;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-top: 40px;
+    height: 1200px;
+}
+.head{
+    text-align: center;
+    color: rgb(65, 4, 122);
+}
+.head h2{
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.top p{
+    color: rgb(11, 11, 201);
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.ss {
+    color: rgb(11, 11, 201);
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.ss h3{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.interst {
+    color: rgb(11, 11, 201);
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.interst h3{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.int {
+    color: rgb(11, 11, 201);
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.int h3{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.academic table{
+    border-radius: 10px;
+    width: 20px;
+    margin-left: 10px;
+}
+.academic th, td{
+    border:1px solid #ccc;
+    text-align:left;
+    padding:10px;
+    border-radius: 6px;
+    
+ }
+ .academic h3{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.left{
+    margin-left: 780px;
+}
+.hii{
+    margin-top:-170px;
+    padding-left: 40px;
+}
+.cert {
+    color: rgb(11, 11, 201);
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cert h3{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.info p {
+    color: rgb(11, 11, 201);
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.info h3{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
